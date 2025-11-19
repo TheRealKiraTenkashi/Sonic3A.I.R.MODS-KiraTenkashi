@@ -20,3 +20,5 @@ Credits:
 - Sonic3Expanded (Yes, I used some sprites from the Sonic 3 Expanded sprite sheet for the Sonic's Ultimate Glow-Up mod)
 
 I decided to put all of my S3AIR mods here, and no longer upload mods on GameBanana.
+
+DON'T BOTHER TRYING TO REUPLOAD THESE MODS SOMEWHERE ELSE WITHOUT MY PERMISSION (except Mazher94, since I already gave him permission a while ago).
