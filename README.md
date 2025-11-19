@@ -1,6 +1,6 @@
 Lists of mods made by Kira Tenkashi (aka me, duh):
 - BSODA Shield: Just a Classic Shield reskin, nothing mindblowing.
-- Miles Modifications - Blue Shoes Edition (I know, I know, Mazher94 already reuploaded that mod, but I'm putting it here anyway...): A lazy looking addon for Useott's Miles Modifications mod. Also yes, I'm saying "lazy looking", 'cause I ended up having to scrap the mod for something else (a terrible Tails skidding mod... And no, I'm not giving y'all that mod, since I deleted it existence).
+- Miles Modifications - Blue Shoes Edition (I know, I know, Mazher94 already reuploaded that mod, but I'm putting it here anyway...): A lazy looking addon for the polished Miles Modifications mod. Also yes, I'm saying "lazy looking", 'cause I ended up having to scrap the mod for something else (a terrible Tails skidding mod... And no, I'm not giving y'all that mod, since I deleted it from existence).
 - Pilgor's First Trial (not included currently): First (and currently only) demo of the Pilgor mod I was working on, until I stopped shortly after, but I might work on it again (or something).
 - Sonic's Ultimate Glow-Up & Miles' Shoe Extravagant (not included currently): Addons made for this mod --> https://sonic3air.boards.net/thread/799/sonic-3-complete-sprites-plus
 - Swag 3 A.I.R. (not included currently): Music mod. That's literally it. :|
