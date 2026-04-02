@@ -1,9 +1,9 @@
-Lists of mods made by Kira Tenkashi (aka me, duh):
-- BSODA Shield: Just a Classic Shield reskin, nothing mindblowing.
-- Miles Modifications - Blue Shoes Edition (I know, I know, Mazher94 already reuploaded that mod, but I'm putting it here anyway...): A lazy looking addon for the polished Miles Modifications mod. Also yes, I'm saying "lazy looking", 'cause I ended up having to scrap the mod for something else (a terrible Tails skidding mod... And no, I'm not giving y'all that mod, since I deleted it from existence).
-- Pilgor's First Trial (not included currently): First (and currently only) demo of the Pilgor mod I was working on, until I stopped shortly after, but I might work on it again (or something).
-- Sonic's Ultimate Glow-Up & Miles' Shoe Extravagant (not included currently): Addons made for this mod: https://sonic3air.boards.net/thread/799/sonic-3-complete-sprites-plus
-- Swag 3 A.I.R. (not included currently): Music mod. That's literally it. :|
+All of my S3AIR mods will be found here.
+
+Lists of the mods in question:
+- BSODA Shield: Just a Classic Shield reskin, nothing mindblowing. It uses the old BSODA spray sprite, 'cause I thought it looked better. Also included is the SFX from its origin game and an icon for the freaking monitors (duh).
+- Miles Modifications Encore (planning): Blue Shoes Edition, but better and with palette and shoe color toggles (also yes, I deleted BSE, 'cause it freaking sucked. If you still want BSE, go to Mazher94's archive or something, 'cause I'm literally not proud of that addon at this point).
+- Pilgor's First Trial (not included currently): First (and currently only) demo of the Pilgor mod I was working on, until I stopped shortly after, but I might work on it again (or something). Used to be on GameBanana (and even got featured, yay), but I ended up making the mod private (like all of my other mods that were on GameBanana), 'cause of personal reasons.
 
 Credits:
 - Kira Tenkashi/TheRealKiraTenkashi (of course)
@@ -14,11 +14,10 @@ Credits:
 - Tiddles (Sonic 3 Complete lead)
 - flamewing
 - That One Jig
-- Fred Bronze
+- liliambean
 - Mazher94 (I credited you, 'cause you reuploaded that one mod, but again... I don't even know why I said okay for that, since I could have done this myself)
 - Coffee Stain Studios (Goat Simulator DEVS)
-- Sonic3Expanded (Yes, I used some sprites from the Sonic 3 Expanded sprite sheet for the Sonic's Ultimate Glow-Up mod)
 
-I decided to put all of my S3AIR mods here, and no longer upload mods on GameBanana (and I'm not really interested in S3AIR modding anymore, so... Yeah).
+I decided to put all of my S3AIR mods here, and no longer upload mods on GameBanana (for personal reasons).
 
 DON'T BOTHER TRYING TO REUPLOAD THESE MODS SOMEWHERE ELSE WITHOUT MY PERMISSION (except Mazher94, since I already gave him permission a while ago).
