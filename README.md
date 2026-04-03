@@ -17,7 +17,7 @@ Credits:
 - flamewing
 - That One Jig
 - liliambean
-- Mazher94 (I credited you, 'cause you reuploaded that one mod, but again... I don't even know why I said okay for that, since I could have done this myself)
+- Mazher94
 - Coffee Stain Studios (Goat Simulator DEVS)
 
 I decided to put all of my S3AIR mods here, and no longer upload mods on GameBanana (for personal reasons).
